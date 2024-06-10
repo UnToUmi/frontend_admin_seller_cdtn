@@ -1,0 +1,166 @@
+{
+
+
+    "main": {
+        "pages": "Pages",
+
+        "order_id": "ORDER ID",
+        "price": "PRICE",
+        "payment_status": "PAYMENT STATUS",
+        "order_status":"ORDER STATUS",
+        "action":"ACTION"
+    },
+
+
+    "home-dashboard": {
+        "total_sales": "Total Sales",
+        "products": "Products",
+        "sellers": "Sellers",
+        "orders": "Orders",
+        "recent_seller_message": "Recent Seller Message",
+        "recent_orders": "Recent Orders",
+        "order_id": "ORDER ID",
+        "price": "PRICE",
+        "payment_status": "PAYMENT STATUS",
+        "order_status":"ORDER STATUS",
+        "active": "ACTIVE",
+        "view":"View",
+        "view_all":"View All"
+    },
+
+    "seller-dashboard": {
+        "total_sales": "Total Sales",
+        "products": "Products",
+        "pending_orders": "Pending Orders",
+        "orders": "Orders",
+        "recent_customer_message": "Recent Customer Message",
+        "recent_orders": "Recent Orders",
+        "order_id": "ORDER ID",
+        "price": "PRICE",
+        "payment_status": "PAYMENT STATUS",
+        "order_status":"ORDER STATUS",
+        "active": "ACTIVE",
+        "view":"View",
+        "view_all":"View All"
+    },
+
+    "orders-dashboard": {
+        "orders_table": "Orders Table",
+        "order_id": "ORDER ID",
+        "price": "PRICE",
+        "payment_status": "PAYMENT STATUS",
+        "order_status":"ORDER STATUS",
+        "action":"ACTION"
+    },
+
+    "categories-dashboard": {
+         "category":"Category",
+        "categories": "Categories",
+        "no": "No",
+        "image": "Image",
+        "name": "name",
+        "add": "Add",
+        "add_a_category":"Add a Category",
+        "action":"ACTION",
+        "add_category":"Add category",
+        "select_image":"Select Image"
+    },
+
+
+
+    "home-body": {
+        "top_category": "Top Category",
+        "feature_products": "Feature Products",
+        "latest_product": "Latest Product",
+        "top_rated_product": "Top Rated Product",
+        "discount_product": "Discount Product"   
+    },
+
+    "home-footer": {
+        "address": "Address",
+        "phone": "Phone number",
+        "Latest Product": "ALL CATEGORY",
+        "Top Rated Product": "Select Category",
+        "Discount Product": "What do you want to find?",    
+        "search": "Search",
+        "support": "Support 24/7",
+        "copyright": "Copyright by HaiDoan @ 2024 All Rights Reserved"
+    },
+    "shops-body": {
+        "categories": "Categories",
+        "price": "Price",
+        "rating": "Rating",
+        "products": "Products",
+        "sort_by": "Sort By",
+        "low_high": "Low to High Price",
+        "high_low": "High to Low Price",
+        "filter_products":"Filter Products"
+    },
+    "header-page": {
+        "home": "Home",
+        "categories": "Categories",
+        "category_page": "Category Page",
+        "product_details_page": "Product Details",
+        "product_details": "Product Details",
+        "cart_page":"Cart Page",
+        "cart":"Cart",
+        "shipping_page":"Shipping Page",
+        "shipping":"Shipping"
+
+
+    },
+      "details-body": {
+        "product_review":"The Product Reviews: ",
+        "reviews": "Reviews",
+        "price": "Price",
+        "add_to_cart": "Add To Cart",
+        "availability": "Availability",
+        "in_stock": "In Stock",
+        "out_of_stock": "Out Of Stock",
+        "share_on": "Share On",
+        "buy_now": "Buy Now",
+        "chat_seller":"Chat Seller",
+        "description":"Description",
+        "text_warning":"If you want to evaluate the product, please fill in the form below! :)",
+        "choose_stars":"Choose stars:",
+        "comment":"Comment",
+        "related_product":"Related Product",
+        "from":"From",
+        "from1":"From"
+    },
+    "cart-body": {
+        "stock_products":"Stock Products",
+        "out_of_stock": "Out of Stock",
+        "delete": "Delete",
+        "order_summary": "Order Summary",
+        "items": "Items",
+        "shipping_fee": "Shipping Fee",
+        "apply": "Apply",
+        "total": "Total",
+        "process_to_checkout": "Process To Checkout",
+        "brand": "Brand"
+
+    },
+    "shipping-body": {
+        "shipping_information":"Shipping Information",
+        "name": "Name",
+        "address": "Address",
+        "phone": "Phone",
+        "post": "Postal Code",
+        "province": "Province",
+        "city": "City",
+        "area": "Area",
+        "save_change": "Save Change",
+        "delete": "Delete",
+        "order_summary": "Order Summary",
+        "brand": "Brand",
+        "items_total": "Items Total ",
+        "delivery_fee": "Delivery Fee",
+        "total_payment": "Total Payment",
+        "total": "Total",
+        "delivery_to": "Deliver To",
+        "change": "Change",
+        "place_order": "Place Order"
+    }
+}
+
